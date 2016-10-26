@@ -1,0 +1,31 @@
+﻿https://www.youtube.com/watch?v=PEKN8NtBDQ0&index=1&list=PLY4rE9dstrJyTdVJpv7FibSaXB4BHPInb
+ 
+Что бы подготовиться прошу: 
+1) создать свой аккаунт на https://github.com/
+2) Скачать и установить https://desktop.github.com/ Вариантов github-ов достаточно много. Этот вариант мне больше нравится.
+
+git config --global user.name "Solovyov Oleg"
+git config --global user.email "livsi8@gmail.com"
+git config --list
+
+Command examples:
+git init //Инициализация нового проэкта
+git add Old // Добавление в локальный github папки Old
+git add .  // Добавление в локальный github всех папок
+git cd Old //Перейти в подкаталог Old
+git status //Покажет ошибки, например недобавленные в локальный github папки.
+git commit -m "Изменил ... что-то там" //Добавляем комментарий к файлам и папкам в локальном github.
+git push -u origin master //Спросит логин и пароль для синхронизации локального github с сервером (без добавления комментария добавление на сервер не произойдет).
+
+Привет всем.
+Поскольку все мы частенько переспрашиваем друг у друга код, предлагаю каждому зарегистрироваться на https://github.com/
+Каждый сделает свой репозиторий (ищите одноименную закладку в профиле). 
+Пошаговая видеоинструкция тут: https://www.youtube.com/watch?v=PEKN8NtBDQ0&index=1&list=PLY4rE9dstrJyTdVJpv7FibSaXB4BHPInb
+
+Бросайте мне ваши ссылки. Все они будут собраны в единый файл и общедоступны.
+
+
+Олег => https://github.com/livsi8/MCpp 
+Юра => https://github.com/Lechenko/MCpp
+
+Проверка 002.
