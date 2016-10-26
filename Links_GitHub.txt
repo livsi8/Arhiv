@@ -28,4 +28,4 @@ git push -u origin master //Спросит логин и пароль для с�
 Олег => https://github.com/livsi8/MCpp 
 Юра => https://github.com/Lechenko/MCpp
 
-Проверка 002.
+Проверка 002
